@@ -19,7 +19,7 @@ A simple Python program to convert text to speech using Google Text-to-Speech (`
 
 ## Install Dependencies
 ```bash
-pip install -r requirements.txt
+- ip install -r requirements.txt
 
 ## How to Run
 -python main.py
