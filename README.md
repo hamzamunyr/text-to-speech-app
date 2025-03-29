@@ -1,4 +1,4 @@
-# Text-to-Speech App
+# Text-to-Speech App 🎙️
 
 A simple Python program to convert text to speech using Google Text-to-Speech (`gTTS`) library.
 
@@ -18,10 +18,11 @@ A simple Python program to convert text to speech using Google Text-to-Speech (`
 - playsound
 
 ## Install Dependencies
-
+```bash
+pip install -r requirements.txt
 
 ## How to Run
-
+-python main.py
 
 ## How it works
 1. Enter the text you want to convert
