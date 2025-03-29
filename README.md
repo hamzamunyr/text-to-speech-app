@@ -18,3 +18,16 @@ A simple Python program to convert text to speech using Google Text-to-Speech (`
 - playsound
 
 ## Install Dependencies
+
+
+## How to Run
+
+
+## How it works
+1. Enter the text you want to convert
+2. Listen to the generated speech
+3. Choose whether to save it
+4. Saved files will go to your Music folder
+
+## Author
+Hamza Munir
