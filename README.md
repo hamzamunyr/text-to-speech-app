@@ -18,7 +18,7 @@ A simple Python program to convert text to speech using Google Text-to-Speech (`
 - playsound
 
 ## How to Run
--python main.py
+- python main.py
 
 ## How it works
 1. Enter the text you want to convert
